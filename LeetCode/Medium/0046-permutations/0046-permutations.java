@@ -1,14 +1,14 @@
 class Solution {
-    public static List<List<Integer>> give(List<Integer> cur,List<Integer> rem, int n,List<List<Integer>> output){
+    public List<List<Integer>> check(List<Integer> cur,List<Integer> rem,int n,List<List<Integer>> output){
         if(cur.size() == n){
             output.add(new ArrayList<>(cur));
             return output;
         }
         for(int i=0;i<rem.size();i++){
             int x = rem.get(i);
-            cur.add(rem.get(i));
+            cur.add(x);
             rem.remove(i);
-            give(cur,rem,n,output);
+            check(cur,rem,n,output);
             cur.remove(cur.size()-1);
             rem.add(i,x);
         }
@@ -19,10 +19,10 @@ class Solution {
         List<List<Integer>> out = new ArrayList<>();
         List<Integer> cur = new ArrayList<>();
         List<Integer> rem = new ArrayList<>();
-        for(int x : nums){
+        for(int x:nums){
             rem.add(x);
         }
-        List<List<Integer>> result = give(cur,rem,nums.length,out);
-        return result;
+        List<List<Integer>> p = check(cur,rem,nums.length,out);
+        return p;
     }
 }
