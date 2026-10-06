@@ -12,6 +12,7 @@ All questions that are done on Leetcode
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ All questions that are done on Leetcode
 | [0933-number-of-recent-calls](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +67,5 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
