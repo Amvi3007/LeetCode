@@ -12,6 +12,7 @@ All questions that are done on Leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
@@ -85,6 +86,7 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@ All questions that are done on Leetcode
 | [0023-merge-k-sorted-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1046-last-stone-weight](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -113,6 +116,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +125,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +152,8 @@ All questions that are done on Leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 <!---LeetCode Topics End-->
