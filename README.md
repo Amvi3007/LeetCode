@@ -6,6 +6,7 @@ All questions that are done on Leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
@@ -167,4 +168,8 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0031-next-permutation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
