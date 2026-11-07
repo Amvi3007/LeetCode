@@ -20,3 +20,9 @@ class Solution {
         return left;
     }
 }
+
+// n+1 numbers, values in 1..n, so by pigeonhole at least one value repeats
+// left, right, mid are values, not indices
+// Each step: count how many elements are <= mid (scan the whole array)
+// count > mid → too many for the slots 1..mid → duplicate is in 1..mid → right = mid
+// Otherwise → duplicate is in mid+1..n → left = mid + 1
