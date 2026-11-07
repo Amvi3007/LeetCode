@@ -1,30 +1,23 @@
 class Solution {
-
-    public void quickSort(int low,int high,int[] nums){
-        if(low>=high)return;
-        int pvt = pivot(low,high,nums);
-        quickSort(low,pvt-1,nums);
-        quickSort(pvt+1,high,nums);
-    }
-
-    public int pivot(int low,int high,int[] nums){
-        int pivot = nums[high];
-        int i = low;
-        for(int j = low;j<high;j++){
-            if(nums[j]<pivot){
-                int temp = nums[i];
-                nums[i] = nums[j];
-                nums[j] = temp;
-                i++;
+    public void sortColors(int[] nums) {
+        int left = 0;
+        int mid = 0;
+        int right = nums.length-1;
+        while(mid<=right){
+            if(nums[mid] == 0){
+                int temp = nums[mid];
+                nums[mid] = nums[left];
+                nums[left]= temp;
+                left++;
+                mid++;
+            }else if(nums[mid] == 1){
+                mid++;
+            }else{
+                int temp = nums[right];
+                nums[right] = nums[mid];
+                nums[mid] = temp;
+                right--;
             }
         }
-        int temp = nums[i];
-        nums[i] = pivot;
-        nums[high] = temp;
-
-        return i;
-    }
-    public void sortColors(int[] nums) {
-        quickSort(0,nums.length-1,nums);
     }
 }
