@@ -11,6 +11,7 @@ All questions that are done on Leetcode
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -93,6 +94,7 @@ All questions that are done on Leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -189,6 +191,7 @@ All questions that are done on Leetcode
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
