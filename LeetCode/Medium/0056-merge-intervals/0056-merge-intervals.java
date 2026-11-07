@@ -12,7 +12,7 @@ class Solution {
         for(int i = 0;i<list.size()-1;i++){
             if(list.get(i).get(1) >= list.get(i+1).get(0)){
                 int temp = list.get(i+1).get(1);
-                list.remove(list.get(i+1));
+                list.remove(i+1);
                 list.get(i).set(1,Math.max(list.get(i).get(1),temp));
                 i--;
             }
