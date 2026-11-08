@@ -35,6 +35,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Stack
@@ -54,6 +55,7 @@ All questions that are done on Leetcode
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Monotonic Stack
