@@ -26,6 +26,7 @@ All questions that are done on Leetcode
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -143,6 +144,7 @@ All questions that are done on Leetcode
 | [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -237,4 +239,8 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
