@@ -6,6 +6,7 @@ All questions that are done on Leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
@@ -136,6 +137,7 @@ All questions that are done on Leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
