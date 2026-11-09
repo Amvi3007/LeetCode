@@ -19,6 +19,7 @@ All questions that are done on Leetcode
 | [0088-merge-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -139,6 +140,7 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -231,4 +233,8 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
