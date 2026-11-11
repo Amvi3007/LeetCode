@@ -1,29 +1,31 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int i = nums.length-2;
-        while(i>=0 && nums[i+1]<=nums[i]){
-            i--;
+        int pivot = -1;
+        for(int i = nums.length-2;i>=0;i--){
+            if(nums[i]<nums[i+1]){
+                pivot = i;
+                break;
+            }
         }
-        if(i>=0){
+        if(pivot>=0){
             int j = nums.length-1;
-            while(j>0 && nums[j]<=nums[i]){
+            while(j>pivot && nums[j]<=nums[pivot]){
                 j--;
             }
-
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+            int temp = nums[j];
+            nums[j] = nums[pivot];
+            nums[pivot] = temp;
         }
-        
 
-        int left = i+1;
+        int left = pivot+1;
         int right = nums.length-1;
         while(left<right){
-            int temp = nums[left];
-            nums[left] = nums[right];
-            nums[right] = temp;
-            left++;
-            right--;
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+                left++;
+                right--;
         }
+
     }
 }
