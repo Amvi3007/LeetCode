@@ -14,7 +14,10 @@ class Solution {
 
             long hours = 0;
             for(int i =0;i<piles.length;i++){
-                hours+=(((long)piles[i] + (long)mid - 1)/(long)mid);
+                hours+=piles[i]/mid;
+                if(piles[i]%mid!=0){
+                    hours++;
+                }
             }
             if(hours<=h){
                 ans = mid;
