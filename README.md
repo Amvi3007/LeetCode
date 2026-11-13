@@ -9,6 +9,7 @@ All questions that are done on Leetcode
 | [0001-two-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
@@ -229,6 +230,7 @@ All questions that are done on Leetcode
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
