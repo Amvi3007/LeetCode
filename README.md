@@ -28,6 +28,7 @@ All questions that are done on Leetcode
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
@@ -43,6 +44,7 @@ All questions that are done on Leetcode
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -150,6 +152,7 @@ All questions that are done on Leetcode
 | [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 ## Bucket Sort
@@ -237,6 +240,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +256,7 @@ All questions that are done on Leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
