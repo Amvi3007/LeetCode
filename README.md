@@ -33,6 +33,7 @@ All questions that are done on Leetcode
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -232,6 +233,7 @@ All questions that are done on Leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
