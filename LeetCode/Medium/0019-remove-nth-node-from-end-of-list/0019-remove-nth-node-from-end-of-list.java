@@ -28,9 +28,7 @@ class Solution {
         }
 
         ListNode val = null;
-        if(cur.next!=null){
-            val = cur.next.next;
-        }
+        val = cur.next.next;
         cur.next = val;
         return dummy.next;
     }
