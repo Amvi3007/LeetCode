@@ -27,16 +27,10 @@ class Solution {
             }
         }
 
-        while(cur1!=null){
-            cur.next = new ListNode(cur1.val);
-            cur1 = cur1.next;
-            cur = cur.next;
-        }
-
-        while(cur2!=null){
-            cur.next = new ListNode(cur2.val);
-            cur2 = cur2.next;
-            cur = cur.next;
+        if(cur1 == null){
+            cur.next = cur2;
+        }else{
+            cur.next = cur1;
         }
 
         return demo.next;
