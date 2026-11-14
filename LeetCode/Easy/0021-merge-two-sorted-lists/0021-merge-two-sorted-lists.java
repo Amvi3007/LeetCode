@@ -16,12 +16,12 @@ class Solution {
         ListNode cur = demo;
         while(cur1!=null && cur2!=null){
             if(cur1.val>=cur2.val){
-                cur.next = new ListNode(cur2.val);
+                cur.next = cur2;
                 cur2 = cur2.next;
                 cur = cur.next;
             }
             else{
-                cur.next = new ListNode(cur1.val);
+                cur.next = cur1;
                 cur1 = cur1.next;
                 cur = cur.next;
             }
