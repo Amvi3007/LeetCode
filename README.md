@@ -127,6 +127,7 @@ All questions that are done on Leetcode
 | [0023-merge-k-sorted-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ All questions that are done on Leetcode
 | [0088-merge-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
