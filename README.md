@@ -53,6 +53,7 @@ All questions that are done on Leetcode
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
@@ -65,6 +66,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -306,4 +308,8 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
