@@ -56,6 +56,7 @@ All questions that are done on Leetcode
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -70,6 +71,7 @@ All questions that are done on Leetcode
 | [0021-merge-two-sorted-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Monotonic Stack
@@ -131,6 +133,7 @@ All questions that are done on Leetcode
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Heap (Priority Queue)
@@ -234,6 +237,7 @@ All questions that are done on Leetcode
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Quicksort
