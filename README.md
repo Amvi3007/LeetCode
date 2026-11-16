@@ -12,6 +12,7 @@ All questions that are done on Leetcode
 | [0033-search-in-rotated-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0046-permutations](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
@@ -72,6 +73,7 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -128,6 +130,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -176,6 +179,7 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
