@@ -36,6 +36,7 @@ All questions that are done on Leetcode
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0739-daily-temperatures](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
@@ -64,6 +65,7 @@ All questions that are done on Leetcode
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -86,6 +88,7 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+| [0739-daily-temperatures](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
