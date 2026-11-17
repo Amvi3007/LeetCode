@@ -62,6 +62,7 @@ All questions that are done on Leetcode
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -105,11 +106,13 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
