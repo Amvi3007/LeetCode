@@ -39,6 +39,7 @@ All questions that are done on Leetcode
 | [0704-binary-search](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1046-last-stone-weight](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
@@ -78,6 +79,7 @@ All questions that are done on Leetcode
 | [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ All questions that are done on Leetcode
 | [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +215,7 @@ All questions that are done on Leetcode
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
