@@ -20,7 +20,11 @@ class Solution {
 
         List<String> ans = new ArrayList<>();
         for(String key : map.keySet()){
-            ans.add(map.get(key) + " " + key);
+            StringBuilder s = new StringBuilder();
+            s.append(map.get(key));
+            s.append(" ");
+            s.append(key);
+            ans.add(new String(s));
         }
 
         return ans;
