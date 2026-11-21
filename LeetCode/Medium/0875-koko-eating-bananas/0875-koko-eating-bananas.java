@@ -7,7 +7,6 @@ class Solution {
             }
         }
 
-        int k = max;
         int low = 1;
         int high = max;
 
