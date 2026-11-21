@@ -23,14 +23,13 @@ class Solution {
                 }
             }
             if(count <= h ){
-                k = mid;
                 high = mid;
             }else{
                 low = mid + 1;
             }
         } 
 
-        return k;
+        return low;
     }
 
 
