@@ -11,6 +11,7 @@ All questions that are done on Leetcode
 | [0015-3sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
@@ -65,6 +66,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
@@ -99,6 +101,7 @@ All questions that are done on Leetcode
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -268,6 +271,7 @@ All questions that are done on Leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -279,6 +283,7 @@ All questions that are done on Leetcode
 | [0015-3sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
