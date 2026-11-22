@@ -28,6 +28,7 @@ All questions that are done on Leetcode
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0454-4sum-ii/) | Medium |
@@ -328,6 +329,7 @@ All questions that are done on Leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 ## Sliding Window
