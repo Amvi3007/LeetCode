@@ -85,6 +85,7 @@ All questions that are done on Leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
@@ -289,6 +290,7 @@ All questions that are done on Leetcode
 | [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
