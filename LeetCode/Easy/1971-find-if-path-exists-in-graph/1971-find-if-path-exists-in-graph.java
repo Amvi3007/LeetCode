@@ -1,17 +1,13 @@
 class Solution {
-    static boolean check(int n, List<List<Integer>> list,int source,int destination,boolean[] visited){
+    static boolean check(List<List<Integer>> list,int source,int destination,boolean[] visited){
         visited[source] = true;
-        Queue<Integer> q = new LinkedList<>();
-        q.add(source);
-        while(!q.isEmpty()){
-            int x = q.poll();
-            for(int node : list.get(x)){
-                if(!visited[node]){
-                    q.add(node);
-                    visited[node] = true;
+        if(source == destination)return true;
+        for(int node : list.get(source)){
+            if(!visited[node]){
+                if(check(list,node,destination,visited)){
+                    return true;
                 }
             }
-            if(x == destination)return true;
         }
         return false;
     }
@@ -30,6 +26,6 @@ class Solution {
         }
 
         boolean[] visited = new boolean[n];
-        return check(n,list,source,destination,visited);
+        return check(list,source,destination,visited);
     }
 }
