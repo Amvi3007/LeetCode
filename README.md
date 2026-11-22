@@ -85,6 +85,7 @@ All questions that are done on Leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
@@ -153,6 +154,7 @@ All questions that are done on Leetcode
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
@@ -206,6 +208,7 @@ All questions that are done on Leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0454-4sum-ii/) | Medium |
