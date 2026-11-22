@@ -7,10 +7,11 @@ class Solution {
         for(int i =0;i<nums.length;i++){
             sum+=nums[i];
             if(map.containsKey(sum - k)){
-                count = count + map.get(sum - k);
+                count+=map.get(sum-k);
             }
             map.put(sum,map.getOrDefault(sum,0)+1);
         }
+
         return count;
     }
 }
