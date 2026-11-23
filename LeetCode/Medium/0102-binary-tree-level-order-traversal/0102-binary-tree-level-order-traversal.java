@@ -23,13 +23,13 @@ class Solution {
             int n = q.size();
             ArrayList<Integer> x = new ArrayList<>();
             for(int i = 0;i<n;i++){
-                TreeNode node = q.poll();
-                x.add(node.val);
-                if(node.left!=null){
-                    q.add(node.left);
+                TreeNode p = q.poll();
+                x.add(p.val);
+                if(p.left!=null){
+                    q.add(p.left);
                 }
-                if(node.right!=null){
-                    q.add(node.right);
+                if(p.right!=null){
+                    q.add(p.right);
                 }
             }
             list.add(x);
