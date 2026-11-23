@@ -83,6 +83,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
@@ -275,6 +276,7 @@ All questions that are done on Leetcode
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
@@ -283,6 +285,7 @@ All questions that are done on Leetcode
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
@@ -366,4 +369,8 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
