@@ -17,8 +17,8 @@ class Solution {
                     right--;
                 }
                 if(!flag){
-                    if(maxLength<=j-i){
-                        maxLength = j-i;
+                    if(maxLength<=j-i+1){
+                        maxLength = j-i+1;
                         ans = s.substring(i,j+1);
                     }
                 }
