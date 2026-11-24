@@ -48,6 +48,7 @@ All questions that are done on Leetcode
 | [0875-koko-eating-bananas](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
+| [0994-rotting-oranges](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1046-last-stone-weight/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -275,6 +276,7 @@ All questions that are done on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +364,7 @@ All questions that are done on Leetcode
 | [0102-binary-tree-level-order-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
