@@ -29,6 +29,7 @@ All questions that are done on Leetcode
 | [0152-maximum-product-subarray](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -254,6 +255,7 @@ All questions that are done on Leetcode
 | [0094-binary-tree-inorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -275,6 +277,7 @@ All questions that are done on Leetcode
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
@@ -346,6 +349,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
 ## Prefix Sum
@@ -362,6 +366,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
+| [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
