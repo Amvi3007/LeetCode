@@ -70,6 +70,7 @@ All questions that are done on Leetcode
 | [0020-valid-parentheses](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -100,6 +101,7 @@ All questions that are done on Leetcode
 | [0002-add-two-numbers](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
@@ -173,6 +175,7 @@ All questions that are done on Leetcode
 | [0023-merge-k-sorted-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
@@ -304,6 +307,7 @@ All questions that are done on Leetcode
 | [0125-valid-palindrome](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
