@@ -173,6 +173,7 @@ All questions that are done on Leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0138-copy-list-with-random-pointer](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
@@ -211,6 +212,7 @@ All questions that are done on Leetcode
 | [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
