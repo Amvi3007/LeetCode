@@ -92,6 +92,7 @@ All questions that are done on Leetcode
 | [0049-group-anagrams](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
@@ -133,6 +134,7 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -220,6 +222,7 @@ All questions that are done on Leetcode
 | [0217-contains-duplicate](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0454-4sum-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -237,6 +240,7 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
