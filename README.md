@@ -61,6 +61,7 @@ All questions that are done on Leetcode
 | [0048-rotate-image](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0050-powx-n/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0509-fibonacci-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
 | [0989-add-to-array-form-of-integer](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0989-add-to-array-form-of-integer/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -106,6 +107,7 @@ All questions that are done on Leetcode
 | [0206-reverse-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -299,6 +301,7 @@ All questions that are done on Leetcode
 | [0118-pascals-triangle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,4 +398,8 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
