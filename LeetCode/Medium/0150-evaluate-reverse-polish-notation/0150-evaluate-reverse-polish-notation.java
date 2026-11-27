@@ -1,23 +1,23 @@
 class Solution {
     public int evalRPN(String[] tokens) {
         Stack<Integer> st = new Stack<>();
-        for(int i = 0;i<tokens.length;i++){
-            if(tokens[i].equals("*") || tokens[i].equals("/") || tokens[i].equals("-") || tokens[i].equals("+")){
+        for(int i =0;i<tokens.length;i++){
+            if(tokens[i].equals("+") || tokens[i].equals("-") || tokens[i].equals("*") || tokens[i].equals("/") ){
                 int a = st.pop();
                 int b = st.pop();
-                if(tokens[i].equals("*")){
+                if(tokens[i].equals("+") ){
+                    st.push(a+b);
+                }else if(tokens[i].equals("*") ){
                     st.push(a*b);
-                }else if(tokens[i].equals("/")){
+                }else if(tokens[i].equals("/") ){
                     st.push(b/a);
-                }else if(tokens[i].equals("+")){
-                    st.push(b+a);
                 }else{
                     st.push(b-a);
                 }
             }else{
                 st.push(Integer.parseInt(tokens[i]));
             }
-        } 
-        return st.pop();
+        }
+        return st.peek();
     }
 }
