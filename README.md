@@ -273,6 +273,7 @@ All questions that are done on Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +282,7 @@ All questions that are done on Leetcode
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
@@ -292,6 +294,7 @@ All questions that are done on Leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +402,7 @@ All questions that are done on Leetcode
 | [0102-binary-tree-level-order-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0542-01-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
