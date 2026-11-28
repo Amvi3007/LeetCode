@@ -40,6 +40,7 @@ All questions that are done on Leetcode
 | [0496-next-greater-element-i](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0523-continuous-subarray-sum/) | Medium |
+| [0542-01-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
@@ -300,6 +301,7 @@ All questions that are done on Leetcode
 | [0073-set-matrix-zeroes](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Dynamic Programming
@@ -313,6 +315,7 @@ All questions that are done on Leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0542-01-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -392,6 +395,7 @@ All questions that are done on Leetcode
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
