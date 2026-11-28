@@ -100,6 +100,7 @@ All questions that are done on Leetcode
 | [0394-decode-string](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0451-sort-characters-by-frequency/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
+| [1396-design-underground-system](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1396-design-underground-system/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +137,7 @@ All questions that are done on Leetcode
 | [0232-implement-queue-using-stacks](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
+| [1396-design-underground-system](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1396-design-underground-system/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +238,7 @@ All questions that are done on Leetcode
 | [0560-subarray-sum-equals-k](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0811-subdomain-visit-count/) | Medium |
+| [1396-design-underground-system](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/1396-design-underground-system/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
