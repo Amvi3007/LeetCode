@@ -133,6 +133,7 @@ All questions that are done on Leetcode
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0622-design-circular-queue](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
@@ -187,6 +188,7 @@ All questions that are done on Leetcode
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
@@ -225,6 +227,7 @@ All questions that are done on Leetcode
 | [0138-copy-list-with-random-pointer](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -415,4 +418,8 @@ All questions that are done on Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/Amvi3007/LeetCode/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
