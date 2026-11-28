@@ -22,14 +22,14 @@ class Solution {
         while(!q.isEmpty()){
             int n = q.size();
             ArrayList<Integer> x = new ArrayList<>();
-            for(int i =0;i<n;i++){
-                TreeNode node = q.poll();
-                x.add(node.val);
-                if(node.left!=null){
-                    q.add(node.left);
+            for(int i = 0;i<n;i++){
+                TreeNode cur = q.poll();
+                x.add(cur.val);
+                if(cur.left!=null){
+                    q.add(cur.left);
                 }
-                if(node.right!=null){
-                    q.add(node.right);
+                if(cur.right!=null){
+                    q.add(cur.right);
                 }
             }
             list.add(x);
