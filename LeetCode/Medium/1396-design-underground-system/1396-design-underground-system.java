@@ -36,6 +36,7 @@ class UndergroundSystem {
         Route r = route.get(statn);
         r.total_time+=total_time;
         r.trips+=1;
+        checkin.remove(id);
     }
     
     public double getAverageTime(String startStation, String endStation) {
