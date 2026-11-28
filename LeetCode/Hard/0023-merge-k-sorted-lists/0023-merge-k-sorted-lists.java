@@ -10,10 +10,10 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)->Integer.compare(a.val,b.val));
-        for(ListNode node:lists){
-            if(node!=null){
-                pq.offer(node);
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a,b)-> Integer.compare(a.val,b.val));
+        for(ListNode l : lists){
+            if(l!=null){
+                pq.add(l);
             }
         }
 
